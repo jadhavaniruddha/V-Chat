@@ -177,7 +177,6 @@ public class MainActivity extends AppCompatActivity {
                 //
                 //
                 //getName();
-                // Log.i("Print User", userName);
                 Log.i("Group", value);
             }
         });
