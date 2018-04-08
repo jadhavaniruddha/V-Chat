@@ -1,14 +1,12 @@
-# FriendlyChat
+# V-Chat
 
-This repository contains code for the FriendlyChat project in the [Firebase in a Weekend: Android by Google](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) Udacity course.
+A multi-user group chat application for Android, uses Firebase Realtime Database as the backend.
 
-## Overview
+# Features:
 
-FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.
-
-## Setup
-
-Setup requires creating a Firebase project. See https://firebase.google.com/ for more information.
-
-## License
-See [LICENSE](LICENSE)
+Fast, simple UI and messaging
+Multiple Groups
+Use a "Group Code" to join or create a group.
+Each Group is permanent and you can revisit the group after leaving it.
+Supports uploading of images
+Google and E-mail login functionality using Firebase AuthUI.
