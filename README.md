@@ -1,8 +1,8 @@
-## V-Chat
+# V-Chat
 
 A multi-user group chat application for Android, uses Firebase Realtime Database as the backend.
 
-# Features:
+## Features:
 
 - Fast, simple UI and messaging
 - Multiple Groups
